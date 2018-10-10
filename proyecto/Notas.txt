@@ -1,0 +1,5 @@
+Notas:
+
+- Para su uso, tiene que configurar la BD. (Eso es en la carpeta config > databse.php)
+
+- Tiene que agregar lo siguiente "'http://localhost:8888/proyecto/';" (Eso en la carpeta config > config.php) en dond dice => $config['base_url'] = AQUÍ
